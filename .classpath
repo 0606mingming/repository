@@ -2,6 +2,7 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+<<<<<<< HEAD
 	<classpathentry kind="lib" path="lib/Contact.mr.jar"/>
 	<classpathentry kind="lib" path="jfreelib/gnujaxp.jar"/>
 	<classpathentry kind="lib" path="jfreelib/iText-2.1.5.jar"/>
@@ -24,5 +25,7 @@
 	<classpathentry kind="lib" path="hibernatelib/jta.jar"/>
 	<classpathentry kind="lib" path="hibernatelib/mysql_connector_java_5.1.36_bin.jar"/>
 	<classpathentry kind="lib" path="lib/beautyeye_lnf.jar"/>
+=======
+>>>>>>> d0dec2b... 企业QQ
 	<classpathentry kind="output" path="bin"/>
 </classpath>
